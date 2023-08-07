@@ -1,0 +1,11 @@
+0 = Ineligible/Voting rights suspended
+1 = Yes
+2 = No
+3 = Abstain
+4 = Not Participating
+5 = Absent/Not Present/Not attending
+
+
+7 = -
+8 = multiple votes in one row
+9 = left blank (missing data)
